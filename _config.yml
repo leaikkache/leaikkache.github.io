@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+title: "Lea's site"
+description: Blog site
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins: 
+  - jekyll-multiple-languages-plugin
+
+# Langage management
+languages: ["en", "fr"]
+

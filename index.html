@@ -3,8 +3,10 @@ layout: default
 ---
 <link rel="shortcut icon" type="image/png" href="lealogo.png">
 <center>
-	<h1>Ce site est en cours de construction, merci de votre patience !</h1>
-	<p>Revenez plus tard pour voir : mes propositions de prestations, des résumés de livres, des articles ...</p>
+	<h1>{% t pages.underConstruction %}</h1>
+	<p>{% t pages.comeBackLater %}</p>
 	<img src="cvR.png" width="20%">
 	<img src="cvV.png" width="20%">
 </center>
+<a class="link-fr" href="{{ site.baseurl_root }}/fr">fr</a>
+<a class="link-en" href="{{ site.baseurl_root }}/">en</a>

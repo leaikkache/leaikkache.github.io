@@ -1,0 +1,11 @@
+global:
+  tagline: English
+  about: About
+langs:
+  en: English
+  fr: Français
+pages:
+  underConstruction: "This site is under construction, thank you for your patience !"
+  comeBackLater: "Come back later to see my services proposal, my books sum-up, articles ..."
+titles:
+  pagination: Pagination
